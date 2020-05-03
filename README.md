@@ -16,6 +16,7 @@ how to run the app:
   <br>
   - the app is minimal
   <br>
+  
  how to run the tests:
  ====
  for the backend:
